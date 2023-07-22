@@ -1,0 +1,33 @@
+@font-face {
+    font-family: "iconfont";
+    src: url('iconfont.eot?t=894dcce5f67fc32f5c8ad3c7d35408da'); /* IE9 */
+    src: url('iconfont.eot?t=894dcce5f67fc32f5c8ad3c7d35408da#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('iconfont.woff?t=894dcce5f67fc32f5c8ad3c7d35408da') format('woff2'),
+    url('iconfont.woff?t=894dcce5f67fc32f5c8ad3c7d35408da') format('woff'), /* chromeã€firefox */
+    url('iconfont.ttf?t=894dcce5f67fc32f5c8ad3c7d35408da') format('truetype'), /* chromeã€firefoxã€operaã€Safari, Android, iOS 4.2+*/
+    url('iconfont.svg?t=894dcce5f67fc32f5c8ad3c7d35408da#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-gengduo:before {
+    content: "\e002";
+}
+.icon-quanping:before {
+    content: "\e003";
+}
+.icon-shouye:before {
+    content: "\e004";
+}
+.icon-github:before {
+    content: "\e005";
+}
+.icon-weibo:before {
+    content: "\e006";
+}
